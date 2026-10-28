@@ -4,5 +4,4 @@ lis=[]
 for x in range(0,len(t1)):
     if t1[x] in t2:
         lis.append(t1[x])
-
 print("Common elements:",  lis)
